@@ -25,7 +25,5 @@ public class Data {
         return datas.size();
     }
 }
-class MusicData{
 
-}
 
